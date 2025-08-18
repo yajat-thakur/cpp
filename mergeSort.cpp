@@ -1,0 +1,9 @@
+//pseudo code ...........
+// merge sort
+// its works on the divide and the conqure approach
+// divide the array into two halves
+// sort each half recursively
+// till the array is sorted into the single memo block ......
+// then back track by sorting array 
+// create a vector and store the sorted ans in that vector ........
+

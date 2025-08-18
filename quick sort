@@ -1,0 +1,5 @@
+// quick sort 
+//in this the pivot element is there 
+// then compare from that element then create the first half and then the second half 
+// create the  array of the first half and the second half and then call the quick sort function on that array
+// worst case O(n^2) best case O(nlogn)
